@@ -1,6 +1,6 @@
 from Crypto.Cipher import AES
 from PasswordHasher import password_hashing
-from Creditentials import password, file
+from Credentials import password, file
 
 
 def decrypt(file: str, key: bytes):
