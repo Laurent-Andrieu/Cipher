@@ -1,7 +1,7 @@
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 from PasswordHasher import password_hashing
-from Creditentials import password, file
+from Credentials import password, file
 
 
 def encrypt(file: str, key=None):
