@@ -11,7 +11,7 @@ Pour les installer via **pip**:
 ---
 ## Utilisation
 ### Préliminaires
-Pour chiffrer un fichier, renseignez dans le fichier [Creditentials.py](https://github.com/Laurent-Andrieu/Cipher/blob/master/Creditentials.py):
+Pour chiffrer un fichier, renseignez dans le fichier [Credentials.py](https://github.com/Laurent-Andrieu/Cipher/blob/master/Creditentials.py):
 * un mot de passe dans dans le champs: `password=` 
 * le nom du fichier dans le champs: `file=`
 
